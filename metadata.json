@@ -1,0 +1,5 @@
+{
+  "name": "Lumina Prompt Architect",
+  "description": "A professional-grade prompt generation tool for visual designers, utilizing Gemini to craft precise, high-fidelity prompts for Midjourney and other AI imaging tools.",
+  "requestFramePermissions": []
+}
